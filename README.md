@@ -6,7 +6,9 @@ Technologies used
 This project was developed using cutting edge front-end technologies.
 
 ReactJS
+
 Typescript
+
 Next.js
 ##
 
